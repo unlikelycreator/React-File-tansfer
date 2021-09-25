@@ -1,11 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 <br/>
 Live Demo : (https://buffedtransfer.netlify.app/) 
 
 Simple share Images and Videos
+
 💢 no big files allowed
 
 ## Available Scripts
