@@ -1,7 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Live Demo : [https://buffedtransfer.netlify.app/](http://localhost:3000) 
+
+<br/>
+Live Demo : [https://buffedtransfer.netlify.app/](https://buffedtransfer.netlify.app/) 
+
 ## Available Scripts
 
 In the project directory, you can run:
