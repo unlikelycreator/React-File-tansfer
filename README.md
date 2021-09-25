@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Live Demo : (https://buffedtransfer.netlify.app/) 
 
 Simple share Images and Videos
-:danger: no big files allowed
+💢 no big files allowed
 
 ## Available Scripts
 
